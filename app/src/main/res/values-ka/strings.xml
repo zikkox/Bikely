@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="welcome_text">დაიწყე მოძრაობა</string>
+    <string name="make_account_text">შექმენი პროფილი</string>
+    <string name="username_text">სახელი</string>
+    <string name="password_text">პაროლი</string>
+    <string name="signup_text">გაგრძელება</string>
+    <string name="model_description_text">LR01-ის მოქნილი და თანამედროვე დიზაინი იდეალურად შეეფერება ქალაქში ნავიგაციას. ამ ველოსიპედს, PEUGEOT-ის ფოლადის ჩარჩოს გარდა, ასევე გააჩნია 16-სიჩქარიანი Shimano Claris-ის გადამრთველი.</string>
+    <string name="buy_text">ყიდვა</string>
+
+</resources>
