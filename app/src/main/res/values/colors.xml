@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="clr_blue_dark">#242C3B</color>
+    <color name="clr_blue_light">#353F54</color>
+    <color name="clr_white_transparent">#99FFFFFF</color>
+    <color name="clr_blue_neon_light">#34C8E8</color>
+    <color name="clr_blue_neon_dark">#4E4AF2</color>
+    <color name="clr_blue_neon">#3D9CEA</color>
+
+</resources>

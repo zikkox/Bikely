@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bikely</string>
+
+    <string name="welcome_text">Start Riding</string>
+    <string name="make_account_text">Make an Account</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="model_text">PEUGEOT - LR01</string>
+    <string name="model_description_text">The LR01 uses the same design as the most iconic bikes from PEUGEOT Cycles\'\ 130-year history and combines it with agile, dynamic performance that\'\s perfectly suited to navigating today\'\s cities. As well as a lugged steel frame and iconic PEUGEOT black-and-white chequer design, this city bike also features a 16-speed Shimano Claris drivetrain.</string>
+    <string name="model_price_text">$ 1,999.99</string>
+    <string name="buy_text">Buy</string>
+</resources>
