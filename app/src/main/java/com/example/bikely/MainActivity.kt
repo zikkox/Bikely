@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.signupButton.setOnClickListener(){
             val password = binding.passwordEdittext
-            if(password.length() > 8){
+            if(password.length() >= 8){
                 startActivity(Intent(this, PurchaseActivity::class.java))
             }
         }
